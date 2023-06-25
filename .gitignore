@@ -2,7 +2,6 @@
 
 #vscode
 .vscode-test
-.vscode
 
 # dependencies
 /node_modules
