@@ -18,8 +18,8 @@
         "title": "Hello World"
       },
       {
-        "command": "vscode-typescript.helloWorld3",
-        "title": "Hello World3"
+        "command": "vscode-typescript.showStatusBar",
+        "title": "Hello Show Status Bar"
       }
     ]
   },
